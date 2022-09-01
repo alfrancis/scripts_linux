@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 cd ~
 sudo curl -sS https://getcomposer.org/installer | sudo php
 

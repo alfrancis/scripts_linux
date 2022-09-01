@@ -30,7 +30,7 @@ RestartSec=10
 StandardOutput=syslog
 StandardError=syslog
 SyslogIdentifier=metabase" >> /etc/systemd/system/metabase.service
-
+#
 sudo systemctl start metabase
 
 sudo systemctl enable metabase

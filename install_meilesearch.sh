@@ -13,6 +13,7 @@ sudo dpkg -i meilisearch.deb
 
 #adicionado ao systemd para iniciar como serviço
 # excutando como serviço
+#
 
 sudo cat << EOF > /etc/systemd/system/meilisearch.service
 [Unit]

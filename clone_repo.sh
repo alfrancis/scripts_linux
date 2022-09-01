@@ -1,4 +1,5 @@
 #!/bin/bash
+#
 
 dist=`grep DISTRIB_ID /etc/*-release | awk -F '=' '{print $2}'`
 

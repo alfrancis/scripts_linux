@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+
 # teste realizado com base em :
 
 #https://medium.com/devops-with-valentine/how-to-configure-your-own-gitlab-runner-with-a-docker-executor-on-aws-ec2-d76c7be0660d

@@ -4,7 +4,7 @@ sudo amazon-linux-extras install nginx1 -y
 sudo systemctl enable nginx
 sudo systemctl start nginx
 
-
+#
 # configurações informadas por Julian.
 # não devem ser alteradas.
 
